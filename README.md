@@ -159,4 +159,4 @@ AWS_ECR_LOGIN_URI = demo>>  008971652357.dkr.ecr.us-east-1.amazonaws.com
 
 ECR_REPOSITORY_NAME = simple-app
 ```
- 008971652357.dkr.ecr.us-east-1.amazonaws.com/chest_disease_app
+ 
